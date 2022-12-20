@@ -1,2 +1,3 @@
 # math-thesis
-Haverford Math Thesis, 2019.
+
+This is my undergraduate math thesis completed my senior year, 2019.
